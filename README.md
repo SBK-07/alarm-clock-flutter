@@ -256,19 +256,19 @@ alarm-clock-flutter/
 
 ## Future Enhancements / Roadmap
 
-| Priority | Enhancement |
-|---|---|
-| High | **Timer module** — countdown timer with start/pause/reset and notification on completion |
-| High | **Stopwatch module** — lap tracking with millisecond precision |
-| High | **Alarm label editor** — allow custom title input when creating an alarm |
-| Medium | **Alarm sound picker** — select from bundled or device ringtones |
-| Medium | **Snooze functionality** — postpone alarm by a configurable interval |
-| Medium | **World clocks** — add/remove cities, display multiple timezone clocks |
-| Medium | **Dark/Light theme toggle** — extend `CustomColors` to support theming |
-| Low | **Widget (home screen)** — Android/iOS home screen widget showing the next alarm |
-| Low | **Alarm statistics** — track alarm history and wake-up consistency |
-| Low | **iCloud / Google Drive sync** — backup alarm data to cloud storage |
-| Low | **Linux / Web support** — extend `flutter_local_notifications` initialization for remaining platforms |
+| Enhancement |
+|---|
+| **Timer module** — countdown timer with start/pause/reset and notification on completion |
+| **Stopwatch module** — lap tracking with millisecond precision |
+| **Alarm label editor** — allow custom title input when creating an alarm |
+| **Alarm sound picker** — select from bundled or device ringtones |
+| **Snooze functionality** — postpone alarm by a configurable interval |
+| **World clocks** — add/remove cities, display multiple timezone clocks |
+| **Dark/Light theme toggle** — extend `CustomColors` to support theming |
+| **Widget (home screen)** — Android/iOS home screen widget showing the next alarm |
+| **Alarm statistics** — track alarm history and wake-up consistency |
+| **iCloud / Google Drive sync** — backup alarm data to cloud storage |
+| **Linux / Web support** — extend `flutter_local_notifications` initialization for remaining platforms |
 
 ---
 
